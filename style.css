@@ -1,0 +1,26 @@
+.personagem {
+    display : inline-block;
+    height: 300px;
+    width: 200px;
+    padding-bottom: 49px;
+    margin: 10px;
+}
+body {
+    background-color: #08fbff;
+}
+
+p {
+    color: #0c0b40;
+    text-align: end;
+    
+}
+
+.personagem img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+div {
+    border: 14px solid black;
+}
